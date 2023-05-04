@@ -5,7 +5,7 @@ public class Character {
     int attackP;
     int mana;
 
-    // membuat constructor
+    // membuat constructorr
     public Character(String nama, int heal, String weapon, int attackP, int mana){ 
         this.nama = nama;
         this.heal = heal; 
